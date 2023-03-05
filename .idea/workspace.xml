@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e49b59d-bb46-4b93-8d57-b5ddaa6ef6d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hogwarts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gryffindor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hogwarts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hufflepuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ravenclaw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Slytherin.java" afterDir="false" />
+    <list default="true" id="6e49b59d-bb46-4b93-8d57-b5ddaa6ef6d4" name="Changes" comment="homework &quot;Hogwarts&quot; done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gryffindor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gryffindor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hogwarts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hogwarts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hufflepuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hufflepuff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ravenclaw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ravenclaw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Slytherin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slytherin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +61,25 @@
       <workItem from="1677668076300" duration="3285000" />
       <workItem from="1677783787922" duration="6475000" />
       <workItem from="1677921135088" duration="4922000" />
-      <workItem from="1678004298099" duration="2457000" />
+      <workItem from="1678004298099" duration="3107000" />
+      <workItem from="1678011669191" duration="1305000" />
     </task>
+    <task id="LOCAL-00001" summary="homework &quot;Hogwarts&quot; done">
+      <created>1678007318339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678007318339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework &quot;Hogwaarts&quot; done" />
+    <MESSAGE value="homework &quot;Hogwarts&quot; done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework &quot;Hogwarts&quot; done" />
   </component>
 </project>
