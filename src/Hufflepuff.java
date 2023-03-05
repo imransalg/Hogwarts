@@ -39,4 +39,13 @@ public class Hufflepuff extends Hogwarts {
                 ", расстояние трансгреcсии - " + getTransgressionDistance() +
                 ", трудолюбие - " + industriousness + ", верность - " + loyalty + ", честность - " + honesty;
     }
+    public void compareWith(Hufflepuff h1) {
+        int pupil1 = this.industriousness + this.loyalty + this.honesty;
+        int pupil2 = h1.industriousness + h1.loyalty + h1.honesty;
+        if (pupil1 > pupil2) {
+            System.out.println(this.getName() + " лучший Пуффендуец, чем " + h1.getName());
+        } else {
+            System.out.println(h1.getName() + " лучший Пуффендуец, чем " + this.getName());
+        }
+    }
 }
